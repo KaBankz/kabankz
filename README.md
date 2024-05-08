@@ -33,9 +33,9 @@ If your hiring, feel free to reach out to me. I'm always looking for new opportu
 ## 📈 Stats 📈
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaBankz&theme=catppuccin-mocha#gh-dark-mode-only)](https://github.com/KaBankz#gh-dark-mode-only)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaBankz&theme=catppuccin-frappe#gh-light-mode-only)](https://github.com/KaBankz#gh-light-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaBankz&theme=catppuccin-latte#gh-light-mode-only)](https://github.com/KaBankz#gh-light-mode-only)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaBankz&show_icons=true&include_all_commits=true&hide=stars&rank_icon=default&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/KaBankz#gh-dark-mode-only)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaBankz&show_icons=true&include_all_commits=true&hide=stars&rank_icon=default&theme=catppuccin_frappe#gh-light-mode-only)](https://github.com/KaBankz#gh-light-mode-only)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaBankz&show_icons=true&include_all_commits=true&hide=stars&rank_icon=default&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/KaBankz#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaBankz&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/KaBankz#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaBankz&layout=compact&theme=catppuccin_frappe#gh-light-mode-only)](https://github.com/KaBankz#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaBankz&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/KaBankz#gh-light-mode-only)
